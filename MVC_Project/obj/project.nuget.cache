@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UfBBWRG7pMc=",
+  "dgSpecHash": "S7n3iV8D9FM=",
   "success": true,
   "projectFilePath": "/Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/MVC_Project.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,7 @@
     "/Users/tasneemsawalha/.nuget/packages/microsoft.entityframeworkcore.design/9.0.16/microsoft.entityframeworkcore.design.9.0.16.nupkg.sha512",
     "/Users/tasneemsawalha/.nuget/packages/microsoft.entityframeworkcore.relational/9.0.16/microsoft.entityframeworkcore.relational.9.0.16.nupkg.sha512",
     "/Users/tasneemsawalha/.nuget/packages/microsoft.entityframeworkcore.sqlserver/9.0.16/microsoft.entityframeworkcore.sqlserver.9.0.16.nupkg.sha512",
+    "/Users/tasneemsawalha/.nuget/packages/microsoft.entityframeworkcore.tools/9.0.16/microsoft.entityframeworkcore.tools.9.0.16.nupkg.sha512",
     "/Users/tasneemsawalha/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.16/microsoft.extensions.caching.abstractions.9.0.16.nupkg.sha512",
     "/Users/tasneemsawalha/.nuget/packages/microsoft.extensions.caching.memory/9.0.16/microsoft.extensions.caching.memory.9.0.16.nupkg.sha512",
     "/Users/tasneemsawalha/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.16/microsoft.extensions.configuration.abstractions.9.0.16.nupkg.sha512",
