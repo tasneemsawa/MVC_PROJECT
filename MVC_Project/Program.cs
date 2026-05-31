@@ -1,3 +1,5 @@
+using MVC_Project.Data;
+
 namespace MVC_Project;
 
 public class Program
@@ -10,6 +12,7 @@ public class Program
         builder.Services.AddControllersWithViews();
 
         var app = builder.Build();
+       var context  = new ApplicationDbContext();
 
         // Configure the HTTP request pipeline.
         if (!app.Environment.IsDevelopment())

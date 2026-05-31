@@ -10,7 +10,8 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "9.0.16",
           "Microsoft.EntityFrameworkCore.Design": "9.0.16",
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.16"
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.16",
+          "Microsoft.EntityFrameworkCore.Tools": "9.0.16"
         },
         "runtime": {
           "MVC_Project.dll": {}
@@ -492,6 +493,11 @@
             "assemblyVersion": "9.0.16.0",
             "fileVersion": "9.0.1626.23002"
           }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Tools/9.0.16": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": "9.0.16"
         }
       },
       "Microsoft.Extensions.Caching.Abstractions/9.0.16": {
@@ -1187,6 +1193,13 @@
       "sha512": "sha512-RizhEzgWh1iCsCC2vseoXLXr5JCKoHg0B/un+IjUVhbKySKD1LhJmMfSs0jat3IGHcijKE7fgwBuLeBx3SIhDg==",
       "path": "microsoft.entityframeworkcore.sqlserver/9.0.16",
       "hashPath": "microsoft.entityframeworkcore.sqlserver.9.0.16.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Tools/9.0.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0KexctGl/S9H/9RFw1TdPSSry7AurZ4VSaE2T5I7xrJmqArNJJtjHxhmnupicJoQqf4GMsYF0HuiSf/GiIfxSw==",
+      "path": "microsoft.entityframeworkcore.tools/9.0.16",
+      "hashPath": "microsoft.entityframeworkcore.tools.9.0.16.nupkg.sha512"
     },
     "Microsoft.Extensions.Caching.Abstractions/9.0.16": {
       "type": "package",
