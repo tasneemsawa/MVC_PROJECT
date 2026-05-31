@@ -18,9 +18,9 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        var categories = context.Categories.ToList();
-
-        return View(categories);
+        ViewBag.Categories = context.Categories.ToList();
+        ViewBag.Products = context.Products.ToList();
+        return View();
     }
 
     public IActionResult Privacy()
