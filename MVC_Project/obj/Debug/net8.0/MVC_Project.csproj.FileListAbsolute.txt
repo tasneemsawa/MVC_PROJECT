@@ -166,3 +166,4 @@
 /Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/obj/Debug/net8.0/MVC_Project.pdb
 /Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/obj/Debug/net8.0/MVC_Project.genruntimeconfig.cache
 /Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/obj/Debug/net8.0/ref/MVC_Project.dll
+/Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/obj/Debug/net8.0/MVC_Project.sourcelink.json

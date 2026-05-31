@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nd+sXUD6tLIuXGrfcb1PxMW2A59RobA+eKPeDJQuQ58=",
+  "Hash": "H2RE3XFdaJkZu+s/NL+PjqtmG0gtS0cuTvvtLt51GQY=",
   "Source": "MVC_Project",
   "BasePath": "_content/MVC_Project",
   "Mode": "Default",
@@ -55,12 +55,12 @@
       "OriginalItemSpec": "/Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/obj/Debug/net8.0/scopedcss/projectbundle/MVC_Project.bundle.scp.css"
     },
     {
-      "Identity": "/Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/wwwroot/css/site.css",
+      "Identity": "/Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/wwwroot/css/style.css",
       "SourceId": "MVC_Project",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/wwwroot/",
       "BasePath": "_content/MVC_Project",
-      "RelativePath": "css/site.css",
+      "RelativePath": "css/style.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -71,7 +71,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/site.css"
+      "OriginalItemSpec": "wwwroot/css/style.css"
     },
     {
       "Identity": "/Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/wwwroot/favicon.ico",
