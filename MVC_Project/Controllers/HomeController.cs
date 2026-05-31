@@ -1,11 +1,14 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using MVC_Project.Data;
 using MVC_Project.Models;
 
 namespace MVC_Project.Controllers;
 
 public class HomeController : Controller
 {
+    ApplicationDbContext context = new ApplicationDbContext();
+
     private readonly ILogger<HomeController> _logger;
 
     public HomeController(ILogger<HomeController> logger)
@@ -15,7 +18,9 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View();
+        var categories = context.Categories.ToList();
+
+        return View(categories);
     }
 
     public IActionResult Privacy()
