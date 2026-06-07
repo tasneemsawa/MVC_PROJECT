@@ -157,7 +157,6 @@
 /Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MVC_Project.props
 /Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MVC_Project.props
 /Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/obj/Debug/net8.0/staticwebassets.pack.json
-/Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/obj/Debug/net8.0/scopedcss/bundle/MVC_Project.styles.css
 /Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/obj/Debug/net8.0/scopedcss/projectbundle/MVC_Project.bundle.scp.css
 /Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/obj/Debug/net8.0/MVC_Proj.BE269BAE.Up2Date
@@ -167,3 +166,5 @@
 /Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/obj/Debug/net8.0/MVC_Project.genruntimeconfig.cache
 /Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/obj/Debug/net8.0/ref/MVC_Project.dll
 /Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/obj/Debug/net8.0/MVC_Project.sourcelink.json
+/Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/obj/Debug/net8.0/scopedcss/Areas/Admin/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/obj/Debug/net8.0/scopedcss/Areas/User/Views/Shared/_Layout.cshtml.rz.scp.css
