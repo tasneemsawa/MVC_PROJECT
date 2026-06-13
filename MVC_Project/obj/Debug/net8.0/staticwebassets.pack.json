@@ -5,6 +5,42 @@
       "PackagePath": "staticwebassets/MVC_Project.bundle.scp.css"
     },
     {
+      "Id": "/Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/wwwroot/Admin/css/adminlte.min.css",
+      "PackagePath": "staticwebassets/Admin/css/adminlte.min.css"
+    },
+    {
+      "Id": "/Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/wwwroot/Admin/css/adminlte.min.css.map",
+      "PackagePath": "staticwebassets/Admin/css/adminlte.min.css.map"
+    },
+    {
+      "Id": "/Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/wwwroot/Admin/images/AdminLTELogo.png",
+      "PackagePath": "staticwebassets/Admin/images/AdminLTELogo.png"
+    },
+    {
+      "Id": "/Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/wwwroot/Admin/images/user1-128x128.jpg",
+      "PackagePath": "staticwebassets/Admin/images/user1-128x128.jpg"
+    },
+    {
+      "Id": "/Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/wwwroot/Admin/images/user2-160x160.jpg",
+      "PackagePath": "staticwebassets/Admin/images/user2-160x160.jpg"
+    },
+    {
+      "Id": "/Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/wwwroot/Admin/images/user3-128x128.jpg",
+      "PackagePath": "staticwebassets/Admin/images/user3-128x128.jpg"
+    },
+    {
+      "Id": "/Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/wwwroot/Admin/images/user8-128x128.jpg",
+      "PackagePath": "staticwebassets/Admin/images/user8-128x128.jpg"
+    },
+    {
+      "Id": "/Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/wwwroot/Admin/js/adminlte.min.js",
+      "PackagePath": "staticwebassets/Admin/js/adminlte.min.js"
+    },
+    {
+      "Id": "/Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/wwwroot/Admin/js/adminlte.min.js.map",
+      "PackagePath": "staticwebassets/Admin/js/adminlte.min.js.map"
+    },
+    {
       "Id": "/Users/tasneemsawalha/Downloads/course/back/tasks/MVC/MVC_Project/MVC_Project/wwwroot/css/style.css",
       "PackagePath": "staticwebassets/css/style.css"
     },
