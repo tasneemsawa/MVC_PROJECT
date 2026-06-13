@@ -19,7 +19,7 @@ namespace MVC_Project.Areas.Admin.Controllers
                     Name = p.Name,
                     Price = p.Price,
                     Quantity = p.Quantity,
-                    // Rating = p.Rating,
+                    Rate = p.Rate,
                     CategoryName = p.Category.Name
                 })
                 .ToList();
@@ -32,7 +32,7 @@ namespace MVC_Project.Areas.Admin.Controllers
             //        Id = product.Id,
             //        Name = product.Name,
             //        Price = product.Price,
-            //        Rating = product.Rating,
+            //        Rate = product.Rate,
             //        Quantity = product.Quantity,
             //        CategoryName = product.Category.Name
             //    });
@@ -53,7 +53,7 @@ namespace MVC_Project.Areas.Admin.Controllers
                 Name = request.Name,
                 Description = request.Description,
                 Price = request.Price,
-                // Rating = request.Rating,
+                Rate = request.Rate,
                 Quantity = request.Quantity,
                 CategoryId = request.CategoryId
             };
